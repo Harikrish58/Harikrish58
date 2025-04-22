@@ -33,7 +33,7 @@ A personal portfolio with a contact form integration and protected admin dashboa
 
 ## 🚀 Technical Skills
 
-- **Frontend:** React.js, TailwindCSS, Flowbite UI, Bootstrap, Material UI  
+- **Frontend:** React.js,javascript, Typescript, TailwindCSS, Flowbite UI, Bootstrap, Material UI  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Others:** Git, GitHub, Firebase, Postman, REST APIs, VS Code  
