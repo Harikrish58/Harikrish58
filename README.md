@@ -19,7 +19,7 @@ Transitioning into tech after 5+ years in **production management**, where I led
 ### 📘 Blog Application  
 A full-stack blog platform with user authentication, post creation, profile editing, image upload, and dark mode support.  
 **Tech Stack:** React, TailwindCSS, Firebase, Node.js, Express.js, MongoDB  
-🔗 [GitHub Repo](https://github.com/Harikrish58)
+🔗 [GitHub Repo](https://github.com/Harikrish58/Blog-App_Frontend)
 
 ---
 
@@ -27,6 +27,7 @@ A full-stack blog platform with user authentication, post creation, profile edit
 A personal portfolio with a contact form integration and protected admin dashboard to manage submissions.  
 **Frontend:** React, TailwindCSS  
 **Backend:** Node.js, Express.js, MongoDB
+🔗 [GitHub Repo](https://github.com/Harikrish58/Portfolio-frontend)
 
 ---
 
