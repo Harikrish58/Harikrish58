@@ -16,7 +16,7 @@ Transitioning from **5+ years in production management**, I bring proven leaders
 
 ## 💻 Featured Projects
 
-### 🛒 E-commerce Platform
+### 🛒 E-commerce Platform *(In Development)*
 
 A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration.  
 **Tech Stack:** React, TailwindCSS, Node.js, Express.js, MongoDB, Stripe  
