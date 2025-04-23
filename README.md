@@ -18,8 +18,9 @@ Transitioning from **5+ years in production management**, I bring proven leaders
 
 ### 🛒 E-commerce Platform *(In Development)*
 
-A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration.  
+A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration. Currently in the building process, with plans to deploy a fully functional platform soon.  
 **Tech Stack:** React, TailwindCSS, Node.js, Express.js, MongoDB, Stripe  
+🔗 [GitHub](https://github.com/Harikrish58) *(Repo link coming soon)*
 
 
 ### 📝 Blog Platform
