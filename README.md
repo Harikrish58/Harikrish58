@@ -7,6 +7,11 @@ Bielawa, Wroclaw, Poland
 
 ---
 
+### Currently
+Actively looking for full-time MERN Stack Developer roles (Frontend / Full Stack) in Europe or Remote.
+
+---
+
 ## About Me
 
 Dynamic **Full-Stack Developer** with a passion for crafting **responsive, user-centric web applications** using the **MERN stack (MongoDB, Express.js, React, Node.js)**. With a robust foundation in frontend and backend development, I specialize in building seamless RESTful APIs, intuitive UI/UX, and scalable solutions.
