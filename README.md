@@ -1,8 +1,9 @@
 # Hari Krishnan Nagarajan
 
-📍 Bielawa, Wroclaw, Poland  
-📧 [harikrish61@gmail.com](mailto:harikrish61@gmail.com) | 📞 +48 739 686 095  
-🌐 [LinkedIn](https://www.linkedin.com/in/hari-krishnan-283360138) | [GitHub](https://github.com/Harikrish58)
+Bielawa, Wroclaw, Poland  
+[harikrish61@gmail.com](mailto:harikrish61@gmail.com) | 
++48 739 686 095  
+[LinkedIn](https://www.linkedin.com/in/hari-krishnan-283360138) | [GitHub](https://github.com/Harikrish58)
 
 ---
 
@@ -14,22 +15,22 @@ Transitioning from **5+ years in production management**, I bring proven leaders
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🛒 E-commerce Platform
+### E-commerce Platform
 
 A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration. Currently in the building process, with plans to deploy a fully functional platform soon.  
 **Tech Stack:** React, TailwindCSS, Node.js, Express.js, MongoDB, Stripe  
 🔗 [GitHub](https://github.com/Harikrish58/hagyustic-frontend) | [Live Demo](https://hagyustic.netlify.app/)
 
 
-### 📝 Blog Platform
+### Blog Platform
 
 A feature-rich, full-stack blog application enabling user authentication, post creation, profile management, image uploads, and dark mode.  
 **Tech Stack:** React, TailwindCSS, Firebase, Node.js, Express.js, MongoDB  
 🔗 [GitHub](https://github.com/Harikrish58/Blog-App_Frontend) | [Live Demo](https://devhub-blogapp.netlify.app/)
 
-### 🌐 Developer Portfolio
+### Developer Portfolio
 
 A sleek personal portfolio showcasing projects, with a secure admin dashboard and contact form integration for managing submissions.  
 **Tech Stack:** React, TailwindCSS, Node.js, Express.js, MongoDB  
@@ -37,7 +38,7 @@ A sleek personal portfolio showcasing projects, with a secure admin dashboard an
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 - **Frontend:** React, JavaScript, TypeScript, TailwindCSS, Flowbite UI, Bootstrap, Material UI  
 - **Backend:** Node.js, Express.js  
@@ -47,7 +48,7 @@ A sleek personal portfolio showcasing projects, with a secure admin dashboard an
 
 ---
 
-## 👨‍💼 Professional Experience
+## Professional Experience
 
 **Production Manager – Injection Molding**  
 *Ace Rico Poland Sp.z o.o* | Feb 2020 – Present  
@@ -66,7 +67,7 @@ A sleek personal portfolio showcasing projects, with a secure admin dashboard an
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Engineering in Construction Engineering**  
 *First Class Honors* | GPA: 8.03/10  
@@ -74,7 +75,7 @@ Apr 2014 – Apr 2018
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - **English:** Upper-Intermediate (B2)  
 - **Polish:** Intermediate  
@@ -82,6 +83,6 @@ Apr 2014 – Apr 2018
 
 ---
 
-## 💡 Why Me?
+## Why Me?
 
 I combine technical expertise with a strategic mindset honed through years of leadership in high-pressure environments. My ability to bridge technical and operational excellence makes me a versatile asset to any team. I’m driven to solve complex challenges and deliver solutions that delight users.
