@@ -1,4 +1,4 @@
-# 👋 Hari Krishnan Nagarajan
+# Hari Krishnan Nagarajan
 
 📍 Bielawa, Wroclaw, Poland  
 📧 [harikrish61@gmail.com](mailto:harikrish61@gmail.com) | 📞 +48 739 686 095  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Dynamic **Full-Stack Developer** with a passion for crafting **responsive, user-centric web applications** using the **MERN stack (MongoDB, Express.js, React, Node.js)**. With a robust foundation in frontend and backend development, I specialize in building seamless RESTful APIs, intuitive UI/UX, and scalable solutions.
 
@@ -16,11 +16,11 @@ Transitioning from **5+ years in production management**, I bring proven leaders
 
 ## 💻 Featured Projects
 
-### 🛒 E-commerce Platform *(In Development)*
+### 🛒 E-commerce Platform
 
 A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration. Currently in the building process, with plans to deploy a fully functional platform soon.  
 **Tech Stack:** React, TailwindCSS, Node.js, Express.js, MongoDB, Stripe  
-🔗 [GitHub](https://github.com/Harikrish58) *(Repo link coming soon)*
+🔗 [GitHub](https://github.com/Harikrish58/hagyustic-frontend) | [Live Demo](https://hagyustic.netlify.app/)
 
 
 ### 📝 Blog Platform
@@ -85,5 +85,3 @@ Apr 2014 – Apr 2018
 ## 💡 Why Me?
 
 I combine technical expertise with a strategic mindset honed through years of leadership in high-pressure environments. My ability to bridge technical and operational excellence makes me a versatile asset to any team. I’m driven to solve complex challenges and deliver solutions that delight users.
-
-*“Building the future, one line of code at a time.”*
