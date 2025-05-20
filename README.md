@@ -7,7 +7,7 @@ Bielawa, Wroclaw, Poland
 
 ---
 
-## Currently
+### Currently
 
 Actively looking for full-time MERN Stack Developer roles (Frontend / Full Stack) in Europe or Remote.
 
