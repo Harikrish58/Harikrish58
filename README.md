@@ -25,7 +25,7 @@ Transitioning from **5+ years in production management**, I bring proven leaders
 
 ### E-commerce Platform
 
-A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration. Currently in the building process, with plans to deploy a fully functional platform soon.  
+A full-stack e-commerce application featuring product listings, user authentication, shopping cart, and secure payment integration. 
 **Tech Stack:** React, TailwindCSS, Node.js, Express.js, MongoDB, Stripe  
 🔗 [GitHub](https://github.com/Harikrish58/hagyustic-frontend) | [Live Demo](https://hagyustic.netlify.app/)
 
