@@ -46,10 +46,11 @@ A sleek personal portfolio showcasing projects, with a secure admin dashboard an
 
 ## Technical Expertise
 
-- **Frontend:** React, JavaScript, TypeScript, TailwindCSS, Flowbite UI, Bootstrap, Material UI  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Dev Tools:** Git, GitHub, Firebase, Postman, REST APIs, VS Code  
+- **Frontend:** JavaScript, TypeScript, React, Redux, Redux Toolkit, TailwindCSS, Bootstrap, Flowbite UI, Material UI  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, Firebase
+-  **DevOps:** AWS (EC2, S3), Render, Netlify, Vercel
+- **Dev Tools:**Git, GitHub, Postman, VS Code  
 - **Additional Skills:** Microsoft Office, ERP Systems, AutoCAD, Production Management (Process Optimization, Team Leadership, Quality Control)  
 
 ---
