@@ -17,9 +17,8 @@ Actively looking for full-time MERN Stack Developer roles (Frontend / Full Stack
 
 ## About Me
 
-**Junior Full-Stack Developer (JavaScript, React.js, Node.js, Next.js)** with hands-on experience building real-world web applications including eCommerce platforms and content systems. Strong foundation in **JavaScript, React, Next.js, Node.js, RESTful APIs, authentication, and cloud deployment.**
-
-Career switcher with 5+ years of engineering experience, bringing structured problem-solving, debugging mindset, and teamwork skills into software development. Actively seeking a junior software developer role in Poland
+Junior Full-Stack Developer focused on building real-world web applications using the MERN stack and Next.js.  
+Career switcher with a strong engineering mindset, hands-on project experience, and a passion for clean, maintainable code.
 
 ---
 
