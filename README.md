@@ -5,7 +5,7 @@
 Bielawa, Dolnośląskie, Poland  
 [harikrish61@gmail.com](mailto:harikrish61@gmail.com) | 
 +48 739 686 095  
-[LinkedIn](https://www.linkedin.com/in/hari-krishnan-283360138) | [GitHub](https://github.com/Harikrish58)
+[LinkedIn](https://www.linkedin.com/in/hari-krishnan-nagarajan-283360138/) | [GitHub](https://github.com/Harikrish58)
 
 ---
 
