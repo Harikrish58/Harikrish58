@@ -9,7 +9,7 @@ Wroclaw, Poland
 
 ---
 
-### Currently
+### Open to Opportunities
 
 Actively seeking a **Junior Frontend Developer / Full-Stack Developer / Web Developer** role in Poland or Remote.
 
