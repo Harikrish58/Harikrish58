@@ -1,8 +1,8 @@
 # Hari Krishnan Nagarajan
-### Junior Full-Stack Developer (JavaScript, React.js, Node.js, Next.js) 
-### Open to UoP or B2B cooperation | Immediate Availability | Open to relocate
+### Junior Full-Stack Developer | JavaScript • TypeScript • React • Next.js • Node.js • MongoDB
+### Immediate Availability | Open to Relocation
 
-Bielawa, Dolnośląskie, Poland  
+Wroclaw, Poland  
 [harikrish61@gmail.com](mailto:harikrish61@gmail.com) | 
 +48 739 686 095  
 [LinkedIn](https://www.linkedin.com/in/hari-krishnan-nagarajan-283360138/) | [GitHub](https://github.com/Harikrish58)
@@ -11,24 +11,29 @@ Bielawa, Dolnośląskie, Poland
 
 ### Currently
 
-Actively looking for full-time MERN Stack Developer roles (Frontend / Full Stack) in Europe or Remote.
+Actively seeking a **Junior Frontend Developer / Full-Stack Developer / Web Developer** role in Poland or Remote.
 
 ---
 
 ## About Me
 
-Junior Full-Stack Developer focused on building real-world web applications using the MERN stack and Next.js.  
-Career switcher with a strong engineering mindset, hands-on project experience, and a passion for clean, maintainable code.
+Junior Full-Stack Developer with hands-on experience building modern web applications using **JavaScript, React.js, Next.js, Node.js, and MongoDB**.
+
+Experienced in developing **REST APIs, authentication systems, and full-stack platforms**, including e-commerce and CMS-style applications.
+
+Background in **operations and data-driven problem solving**, bringing 6+ years of experience analyzing workflows, diagnosing issues, and improving processes in high-volume environments.
+
+Combines software development knowledge with real-world operational insight, enabling effective debugging, system analysis, and collaboration between technical and non-technical teams.
 
 ---
 
 ## Technical Expertise
 
-- **Frontend:** JavaScript, TypeScript, React, Redux, Redux Toolkit, TailwindCSS, Bootstrap, Flowbite UI, Material UI  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, Firebase
-- **DevOps:** AWS (EC2, S3), Render, Netlify, Vercel
-- **Dev Tools:** Git, GitHub, Postman, VS Code  
+- **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit, TailwindCSS, HTML5, CSS3, Responsive Web Design
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication 
+- **Database:** MongoDB, Firebase (Authentication & Storage)
+- **DevOps:** AWS (EC2, S3), Render, Netlify, Vercel, Cloudinary
+- **Dev Tools:** Git, GitHub, Postman, VS Code, API Testing, Debugging 
 - **Additional Skills:** Microsoft Office, ERP Systems, AutoCAD, Production Management (Process Optimization, Team Leadership, Quality Control)  
 
 ---
@@ -58,6 +63,6 @@ A sleek personal portfolio showcasing projects, with a secure admin dashboard an
 
 ## Languages
 
-- **English:** Upper-Intermediate (B2)  
-- **Polish:** Intermediate  
-- **Tamil:** Native  
+- **English:** C1 (Advanced)
+- **Polish:** B1 (Intermediate) 
+- **Tamil:** Native
