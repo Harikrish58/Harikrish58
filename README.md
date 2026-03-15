@@ -1,5 +1,5 @@
 # Hari Krishnan Nagarajan
-### Junior Full-Stack Developer | JavaScript • TypeScript • React • Next.js • Node.js • MongoDB
+### Junior Full-Stack Developer | React • Next.js • TypeScript • JavaScript • Node.js • MongoDB • SQL
 ### Immediate Availability | Open to Relocation
 
 Wroclaw, Poland  
