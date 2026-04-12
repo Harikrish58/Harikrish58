@@ -1,5 +1,5 @@
 # Hari Krishnan Nagarajan
-### Junior Full-Stack Developer | React • Next.js • TypeScript • JavaScript • Node.js • MongoDB • SQL
+### Junior Full-Stack Developer | React.js • Next.js • Node.js • TypeScript • JavaScript • MongoDB • SQL • Prisma ORM • REST APIs
 ### Immediate Availability | Open to Relocation
 
 Wroclaw, Poland  
@@ -32,7 +32,7 @@ Combines software development knowledge with real-world operational insight, ena
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit, TailwindCSS, HTML5, CSS3, Responsive Web Design
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication 
-- **Database:** MongoDB, Firebase (Authentication & Storage)
+- **Database:** PostgreSQL, MySQL, MongoDB, Prisma ORM, Firebase (Authentication & Storage)
 - **DevOps:** AWS (EC2, S3), Render, Netlify, Vercel, Cloudinary
 - **Dev Tools:** Git, GitHub, Postman, VS Code, API Testing, Debugging 
 - **Additional Skills:** Microsoft Office, ERP Systems, AutoCAD, Production Management (Process Optimization, Team Leadership, Quality Control)  
